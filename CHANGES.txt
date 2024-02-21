@@ -5,4 +5,4 @@
 - Added ZL button connected to GPIO12. Works with PhoZL firmware.  
 - Fixed the Z/ZL footprint to fit right angle mouse switches.  
 - Added breakout pad for Dup and Dleft for SoreiruFactory's Double LR Trigger.  
-- Added Phizard Link-V based on OlyU-V.  
+- Added Phizard Link-V based on OlyU-V. This supports Phob vision output. (I will make an adapter for it in the future.)  
