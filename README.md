@@ -7,7 +7,7 @@ This means that any changes made to the board should be made public and CHANGES.
 The Phizard Link-V board is licensed under GPL-3.0 licence.  
 
 # Phizard
-**Not yet tested**  
+**!!Not yet tested!!**  
 
 Phizard has some added features based on PhobGCC 2.0.5.  
 Currently works with [PhoZL](https://github.com/sean44104/PhoZL) firmware.  
