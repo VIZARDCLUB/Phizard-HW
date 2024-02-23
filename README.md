@@ -19,7 +19,8 @@ Currently works with [PhoZL](https://github.com/sean44104/PhoZL) firmware.
 - Swap USB connecter to USB-C.  
 - Added ZL button connected to GPIO12. Works with PhoZL firmware.  
 - Fixed the Z/ZL footprint to fit right angle mouse switches.  
-- Added breakout pad for Dup and Dleft for SoreiruFactory's Double LR Trigger.  
+- Added breakout pad for Dup and Dleft for SoreiruFactory's Double LR Trigger.
+- Added a 22ohm resister and a pad for 3.3V cell rumble.  
 - Added Phizard Link-V based on OlyU-V. This supports Phob vision output. (I will make an adapter for it in the future.)  
 
 # Credit
