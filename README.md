@@ -1,3 +1,6 @@
+# Known issues
+- The R22 resister size is too small. It should be replaced to the one which is 1/2W power or more.(I will fix it in a few days.)  
+
 # Phizard-HW
 **!!Not yet tested!!**  
 
