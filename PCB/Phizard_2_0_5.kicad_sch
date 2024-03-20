@@ -6171,7 +6171,7 @@
     (pin "1" (uuid a5fd2ef1-c1e8-4648-8992-4ec1682f2c67))
     (pin "2" (uuid 636a265b-1662-44de-b178-3d9f9b9f7108))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW1") (unit 1)
         )
@@ -6197,7 +6197,7 @@
     (pin "1" (uuid f67e4e55-b1d7-4f02-9cf0-1307b05b5f58))
     (pin "2" (uuid 63328a39-50d9-4646-b0c8-2543a598282b))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW2") (unit 1)
         )
@@ -6223,7 +6223,7 @@
     (pin "1" (uuid 99dad093-5efd-4aa9-ad70-71fe162f5dd5))
     (pin "2" (uuid 92e25f3a-fc08-4dd0-9453-52b014102a29))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW3") (unit 1)
         )
@@ -6249,7 +6249,7 @@
     (pin "1" (uuid abea3df0-0033-40f1-8f86-e051ae4fed20))
     (pin "2" (uuid 8564cc69-9a4b-408d-80ba-446914b3b830))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW4") (unit 1)
         )
@@ -6275,7 +6275,7 @@
     (pin "1" (uuid 8d1397e0-9905-45a1-b08e-2e80b3bcfdd6))
     (pin "2" (uuid 1fcdfd25-3b45-4d41-8f75-f250598c7001))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW5") (unit 1)
         )
@@ -6301,7 +6301,7 @@
     (pin "1" (uuid 3262a49e-5871-41eb-871a-b820d6bfe1b0))
     (pin "2" (uuid c9e6388e-4713-4e10-9afb-872c5bde531c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW6") (unit 1)
         )
@@ -6327,7 +6327,7 @@
     (pin "1" (uuid f6261936-8a5b-4419-a880-83b012a8fbb4))
     (pin "2" (uuid 0cb97ebf-9b13-488c-95a4-2095e4bac56e))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW7") (unit 1)
         )
@@ -6352,7 +6352,7 @@
     )
     (pin "1" (uuid 2f58fb13-0fd6-41c8-b9d6-ac7c982df2c7))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0103") (unit 1)
         )
@@ -6377,7 +6377,7 @@
     )
     (pin "1" (uuid 005eb05d-fbf8-4ab2-a8ae-e174df9d03ae))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0113") (unit 1)
         )
@@ -6386,7 +6386,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Female") (at 39.37 31.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061572882)
     (property "Reference" "J1" (at 40.0812 32.3596 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6407,7 +6407,7 @@
     (pin "5" (uuid 621005bd-fd10-488d-ad1d-eae1e8dcd754))
     (pin "6" (uuid 20460762-7ee6-4eee-adc3-03491406f36c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J1") (unit 1)
         )
@@ -6434,7 +6434,7 @@
     (pin "2" (uuid 63dc6e8e-165e-4618-8ec9-b0e29de9e505))
     (pin "3" (uuid daa022d3-e3a6-4690-b5ff-395e88902025))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "RV1") (unit 1)
         )
@@ -6461,7 +6461,7 @@
     (pin "2" (uuid abc74907-d66f-47e6-9559-d8ed824d3f76))
     (pin "3" (uuid 1bf202e3-58fc-4de0-a2d1-de07aefce5b3))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "RV2") (unit 1)
         )
@@ -6487,7 +6487,7 @@
     (pin "1" (uuid 8558dab7-0d43-47de-80af-4cdd13781fe2))
     (pin "2" (uuid ddb5f8dd-5d88-4a91-94a7-605ff0bc864c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW9") (unit 1)
         )
@@ -6512,7 +6512,7 @@
     )
     (pin "1" (uuid 4f33ec46-958b-40af-8630-d0baf9d33517))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0115") (unit 1)
         )
@@ -6538,7 +6538,7 @@
     (pin "1" (uuid 2d0ab220-0688-4e6c-9ffa-aea20ea16a50))
     (pin "2" (uuid 4d953a03-7400-408a-ab72-b915b2bd4f9d))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW10") (unit 1)
         )
@@ -6564,7 +6564,7 @@
     (pin "1" (uuid 75a2aae0-69e2-4d83-9be9-42ed3cee959a))
     (pin "2" (uuid 12ee9b34-dac1-4efd-83e4-efe4ceb38d08))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW11") (unit 1)
         )
@@ -6590,7 +6590,7 @@
     (pin "1" (uuid a8388897-7737-4925-b3c2-1c16ad936691))
     (pin "2" (uuid a64455e6-d627-495b-9f65-8514d3bb72dd))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW12") (unit 1)
         )
@@ -6615,7 +6615,7 @@
     )
     (pin "1" (uuid d197210b-bcb0-44f8-ad59-d355aafaa024))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0117") (unit 1)
         )
@@ -6655,7 +6655,7 @@
     (pin "3" (uuid 46dbca62-a4ce-4a63-896c-8cd77c7bb6af))
     (pin "4" (uuid 50b225ef-97c0-4222-b414-81bfc25bd8cc))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "SW8") (unit 1)
         )
@@ -6685,7 +6685,7 @@
     (pin "5" (uuid c26fcf70-0f05-433b-b373-5d196bd2281b))
     (pin "6" (uuid cc8ea137-5c57-4334-9820-db00f0057105))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U2") (unit 1)
         )
@@ -6720,7 +6720,7 @@
     (pin "1" (uuid 721bfb9e-a645-4a40-84eb-e8eb0fc83079))
     (pin "2" (uuid f7c723f9-66dc-4ec5-b77c-3f2556f7adf5))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C3") (unit 1)
         )
@@ -6755,7 +6755,7 @@
     (pin "1" (uuid 73ae8a1d-1dc3-4cbb-93c3-14506fdcc400))
     (pin "2" (uuid e85660a9-f33f-4100-a292-06f04e90368d))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C7") (unit 1)
         )
@@ -6780,7 +6780,7 @@
     )
     (pin "1" (uuid 59d21793-df1b-4037-a9be-9dc30aa6db0e))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0112") (unit 1)
         )
@@ -6804,7 +6804,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H1") (unit 1)
         )
@@ -6828,7 +6828,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H2") (unit 1)
         )
@@ -6852,7 +6852,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H3") (unit 1)
         )
@@ -6876,7 +6876,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H4") (unit 1)
         )
@@ -6900,7 +6900,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H5") (unit 1)
         )
@@ -6924,7 +6924,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H6") (unit 1)
         )
@@ -6948,7 +6948,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H7") (unit 1)
         )
@@ -6972,7 +6972,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H8") (unit 1)
         )
@@ -6996,7 +6996,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H9") (unit 1)
         )
@@ -7021,7 +7021,7 @@
     )
     (pin "1" (uuid caf0026c-9aed-45ac-abaf-fe051e1c34ba))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR010") (unit 1)
         )
@@ -7046,7 +7046,7 @@
     )
     (pin "1" (uuid ae20eff9-e9b7-4c13-a1c9-0d101a11ff88))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0105") (unit 1)
         )
@@ -7072,7 +7072,7 @@
     (pin "1" (uuid ed2e9f19-4adb-43a9-9a07-482cabc93f8e))
     (pin "2" (uuid 42e57c51-69d3-449c-be73-4f1c54e26435))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J11") (unit 1)
         )
@@ -7097,7 +7097,7 @@
     )
     (pin "1" (uuid fe260295-fc1c-4e58-b81d-98eb35ceb8e9))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0132") (unit 1)
         )
@@ -7114,16 +7114,19 @@
     (property "Value" "22R" (at 146.05 21.59 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 146.05 27.178 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (at 146.05 27.178 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "C2845146" (at 146.05 25.4 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 3bd66ead-0350-4f49-8408-d7ef1a72359b))
     (pin "2" (uuid 83423122-e824-43d3-b51a-b2e0ae4a4a2a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R22") (unit 1)
         )
@@ -7132,7 +7135,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x07_Socket") (at 340.36 226.06 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0c53d92c-f4f8-4718-ab63-9132f539716e)
     (property "Reference" "J8" (at 341.63 224.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7154,7 +7157,7 @@
     (pin "6" (uuid e8659fbd-7e5e-4a03-ae34-a5e9fcf4a4cb))
     (pin "7" (uuid 8cdf2f6d-6ae0-4de1-99f0-325ccec0975a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J8") (unit 1)
         )
@@ -7189,7 +7192,7 @@
     (pin "1" (uuid 34047d5e-db98-4c81-9819-708cf9d146b1))
     (pin "2" (uuid 52bbff24-3795-4fb1-b010-95b48802d3f3))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R13") (unit 1)
         )
@@ -7214,7 +7217,7 @@
     )
     (pin "1" (uuid a8fb5c54-1d6a-4168-82ce-1564943d3b04))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0101") (unit 1)
         )
@@ -7237,14 +7240,14 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055-q1.pdf" (at 313.69 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C266230" (at 313.69 55.88 0)
+    (property "LCSC" "C266128" (at 313.69 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4ba8126b-06cb-4f8f-8a2a-f63c0f9d2b83))
     (pin "2" (uuid aad1734d-d8c7-4c3c-8aba-7ea5091ff83d))
     (pin "3" (uuid f02aa9d9-dce5-4278-b84c-57bd9472ce6d))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U10") (unit 1)
         )
@@ -7328,7 +7331,7 @@
     (pin "8" (uuid b445206a-ec65-48d5-adde-56414d34a24a))
     (pin "9" (uuid bad67b65-4859-4d74-b7ee-97c4fcc5a769))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U8") (unit 1)
         )
@@ -7358,7 +7361,7 @@
     (pin "2" (uuid db3e8e2d-38e0-44e0-969f-fe042827f6c4))
     (pin "3" (uuid 7d0aa032-9b1f-469d-85cd-a28c4fe41bd4))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U6") (unit 1)
         )
@@ -7383,7 +7386,7 @@
     )
     (pin "1" (uuid fe9721b7-b0a8-43d3-8fc7-726e20ca15ec))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR01") (unit 1)
         )
@@ -7408,7 +7411,7 @@
     )
     (pin "1" (uuid b1f5c5ef-260d-4a99-8b29-2d233ec990e5))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR028") (unit 1)
         )
@@ -7433,7 +7436,7 @@
     )
     (pin "1" (uuid 2b39d38b-c55d-4f6c-8dbb-2305ef0c389a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR023") (unit 1)
         )
@@ -7458,7 +7461,7 @@
     )
     (pin "1" (uuid 1a516312-4697-432f-a735-19a2cd46a830))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR04") (unit 1)
         )
@@ -7483,7 +7486,7 @@
     )
     (pin "1" (uuid 2e6951f0-e435-4718-a239-2b257ad44ab5))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR026") (unit 1)
         )
@@ -7521,7 +7524,7 @@
     (pin "1" (uuid 0b7fcc49-f420-4a1f-a4f0-7b5b5e0b0bc1))
     (pin "2" (uuid 4856ac3a-3825-4f64-a953-8b2395099598))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "D2") (unit 1)
         )
@@ -7546,7 +7549,7 @@
     )
     (pin "1" (uuid a953343f-3841-4893-8bc8-855c267d0953))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0131") (unit 1)
         )
@@ -7581,7 +7584,7 @@
     (pin "1" (uuid 5ef519c5-bcbd-4175-9cab-1c75bf5a49fa))
     (pin "2" (uuid fa4637ad-da29-47c7-841d-2fdae7a72fc5))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R5") (unit 1)
         )
@@ -7606,7 +7609,7 @@
     )
     (pin "1" (uuid e7da982b-8e0b-4819-a4e5-270c0d42bafb))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR016") (unit 1)
         )
@@ -7630,7 +7633,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H10") (unit 1)
         )
@@ -7655,7 +7658,7 @@
     )
     (pin "1" (uuid 121fc5b7-40d9-4a42-9907-80939c728779))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0102") (unit 1)
         )
@@ -7681,7 +7684,7 @@
     (pin "1" (uuid 9c737592-055d-44bb-aadc-42918529bf76))
     (pin "2" (uuid edc1ac1f-d4c4-41b0-853d-f1f6c777f148))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J3") (unit 1)
         )
@@ -7706,7 +7709,7 @@
     )
     (pin "1" (uuid 83a64c76-8704-40f7-8c79-f1abc19e11ca))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0104") (unit 1)
         )
@@ -7741,7 +7744,7 @@
     (pin "1" (uuid 1d0656a2-1586-4d98-a3ae-e94b473b44c3))
     (pin "2" (uuid 0ec505c0-0aa3-4b3d-a22f-e8e3370c119a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C5") (unit 1)
         )
@@ -7771,7 +7774,7 @@
     (pin "5" (uuid a7a23ad8-43bb-4430-ac66-226b7437741a))
     (pin "6" (uuid c72267b6-57b2-4b88-941f-12a8a03cd325))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J6") (unit 1)
         )
@@ -7800,7 +7803,7 @@
     (pin "1" (uuid 610945fc-9efc-4817-8112-800396c8b577))
     (pin "2" (uuid e44ebcdd-421a-4d0e-a6a9-b5a8694a3c1c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R7") (unit 1)
         )
@@ -7825,7 +7828,7 @@
     )
     (pin "1" (uuid 08d77760-274f-43e1-95e3-4cc889a4ebe4))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0110") (unit 1)
         )
@@ -7860,7 +7863,7 @@
     (pin "1" (uuid c0f9b5fc-655f-48e4-9fe8-e9c07d391ec4))
     (pin "2" (uuid a1dddb55-a13c-41ac-ab58-f24456ba5815))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C4") (unit 1)
         )
@@ -7885,7 +7888,7 @@
     )
     (pin "1" (uuid 9be2de76-f51f-490d-bd94-82831117ca91))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0126") (unit 1)
         )
@@ -7914,7 +7917,7 @@
     (pin "1" (uuid fcf3d1eb-3994-444e-8e10-edbd5e261102))
     (pin "2" (uuid 0d42fb49-38cd-4626-8ca4-32fdd4bc0c9e))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "D5") (unit 1)
         )
@@ -7949,7 +7952,7 @@
     (pin "1" (uuid 43fce030-bc69-4d03-9775-a39a90c6a5f2))
     (pin "2" (uuid 79d4e245-8c61-4543-a3df-cd51145501e0))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R4") (unit 1)
         )
@@ -7978,7 +7981,7 @@
     (pin "1" (uuid 63c24d0e-5bf4-4666-a35e-5b3affe99485))
     (pin "2" (uuid 2bfc7f41-947a-4b14-bac5-ed16864382df))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C27") (unit 1)
         )
@@ -8013,7 +8016,7 @@
     (pin "1" (uuid f7ddbb4c-38a2-4c65-b2b1-51bae8004c3f))
     (pin "2" (uuid 13be1751-f5b9-4c76-a797-4950d396f053))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "F1") (unit 1)
         )
@@ -8039,10 +8042,10 @@
     (property "LCSC" "C105872" (at 313.69 190.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1a7c4bb4-a621-4d4d-acd1-1e7a0e946862))
-    (pin "2" (uuid 2b722382-18af-4fd0-91e2-971ca139834a))
+    (pin "1" (uuid 0478d4f8-cd19-4d38-b0eb-9cb49ea440cf))
+    (pin "2" (uuid f1073eae-f8e0-486c-8f18-ec9070384d9b))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R27") (unit 1)
         )
@@ -8067,7 +8070,7 @@
     )
     (pin "1" (uuid c43147c8-af0f-4ba4-9502-e276f6d50f7c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0127") (unit 1)
         )
@@ -8096,7 +8099,7 @@
     (pin "1" (uuid 918ee76a-0656-45dc-b18d-6e9b19db512d))
     (pin "2" (uuid d6c43e38-77fc-408e-a887-0e55fd3b7253))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R1") (unit 1)
         )
@@ -8126,7 +8129,7 @@
     (pin "5" (uuid 0f4c247e-c28c-4f17-b50c-b565cdc686fb))
     (pin "6" (uuid 18f494b8-168c-45f1-a288-0fba6305b7e0))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U5") (unit 1)
         )
@@ -8155,7 +8158,7 @@
     (pin "1" (uuid 1450e986-03b2-4488-a4f8-8f43ec17d94e))
     (pin "2" (uuid addade9b-d129-429b-b409-187a27e55993))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R10") (unit 1)
         )
@@ -8198,7 +8201,7 @@
     (pin "C" (uuid 58cef205-b857-4128-8690-3b4f15354377))
     (pin "D" (uuid 9474fcd1-196a-424c-acee-aa8a853650b1))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "S1") (unit 1)
         )
@@ -8223,7 +8226,7 @@
     )
     (pin "1" (uuid 45b80496-fc3c-4cc7-bfff-67a8557eb213))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0118") (unit 1)
         )
@@ -8248,7 +8251,7 @@
     )
     (pin "1" (uuid 47b28b07-b81a-4362-bbcf-dee82ed019a2))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR018") (unit 1)
         )
@@ -8272,7 +8275,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H11") (unit 1)
         )
@@ -8297,7 +8300,7 @@
     )
     (pin "1" (uuid dec5b06e-565c-4a11-8aa5-b3fe3af3fdc6))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0107") (unit 1)
         )
@@ -8322,7 +8325,7 @@
     )
     (pin "1" (uuid cca95ebb-422d-4490-ac09-cd32cfab91e6))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0106") (unit 1)
         )
@@ -8347,7 +8350,7 @@
     )
     (pin "1" (uuid b2d9ecdf-2cb1-4ef9-84e6-a0051b533553))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR02") (unit 1)
         )
@@ -8377,7 +8380,7 @@
     (pin "5" (uuid bac13969-def1-4336-a600-c8e5ff7fa989))
     (pin "6" (uuid 6a9b7fb4-337f-46b0-acad-ea2f8d084269))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J14") (unit 1)
         )
@@ -8402,7 +8405,7 @@
     )
     (pin "1" (uuid 063443b0-72c7-431c-9d9a-386fcf90686d))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR05") (unit 1)
         )
@@ -8437,7 +8440,7 @@
     (pin "1" (uuid 3218e61e-0b3d-4694-9bbf-8cb1fb4d7738))
     (pin "2" (uuid 0a25e9c4-b439-4581-a309-f1a8e4922499))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R3") (unit 1)
         )
@@ -8462,7 +8465,7 @@
     )
     (pin "1" (uuid 96912099-460f-4546-a998-b6976ef93242))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0130") (unit 1)
         )
@@ -8487,7 +8490,7 @@
     )
     (pin "1" (uuid 82da42a0-a749-4f7b-88e6-63cfe9fe8271))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR027") (unit 1)
         )
@@ -8510,14 +8513,14 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055-q1.pdf" (at 372.11 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C266230" (at 372.11 135.89 0)
+    (property "LCSC" "C266128" (at 372.11 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8964e07e-5a0f-452c-a022-e3363f85a08a))
     (pin "2" (uuid dbb0cd0d-f65a-4fec-85bf-6fdd34031ca1))
     (pin "3" (uuid 06ed1900-f3e5-44f9-a538-6f87f77441cb))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U9") (unit 1)
         )
@@ -8542,7 +8545,7 @@
     )
     (pin "1" (uuid 5def7894-c1a3-4235-bc48-710793d1c2d5))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR06") (unit 1)
         )
@@ -8571,7 +8574,7 @@
     (pin "1" (uuid 4d79993d-515c-4d04-a165-666e0c13177c))
     (pin "2" (uuid 06a704e2-a3a0-4a61-9ef6-21fb20dbeee2))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R26") (unit 1)
         )
@@ -8600,7 +8603,7 @@
     (pin "1" (uuid 5802a780-b395-40bd-bbda-444cc6ad54ec))
     (pin "2" (uuid 6658aa29-55e8-4d17-a89d-5685f12032d9))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R18") (unit 1)
         )
@@ -8609,7 +8612,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 125.73 25.4 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 6cda4aa6-292e-4c56-adbd-a8576205eda0)
     (property "Reference" "J5" (at 125.095 21.3573 0)
       (effects (font (size 1.27 1.27)))
@@ -8626,7 +8629,7 @@
     (pin "1" (uuid d5053e25-8e31-4d8a-8bd9-a12ea01f9d3c))
     (pin "2" (uuid af23727e-1752-462d-9a4e-0e991b37fd62))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J5") (unit 1)
         )
@@ -8655,7 +8658,7 @@
     (pin "1" (uuid ade9b13f-10a7-4e58-b9eb-fd780e3e04e0))
     (pin "2" (uuid 5dd1ed6f-e80d-47be-8702-a9e703e1db54))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C16") (unit 1)
         )
@@ -8690,7 +8693,7 @@
     (pin "1" (uuid bad6d27b-d272-4dce-a1ad-289e8b4872d9))
     (pin "2" (uuid 54b3c8ee-88e1-4331-b918-fcaa92155361))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C8") (unit 1)
         )
@@ -8715,7 +8718,7 @@
     )
     (pin "1" (uuid b695d1fa-1be8-4206-ba3a-78428c98cb9c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR022") (unit 1)
         )
@@ -8738,14 +8741,14 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055-q1.pdf" (at 313.69 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C266230" (at 313.69 80.01 0)
+    (property "LCSC" "C266128" (at 313.69 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c1f6792c-6429-4eff-8b1f-0784db166651))
     (pin "2" (uuid bfae1de9-3df9-4f37-9b97-ed16af608f0b))
     (pin "3" (uuid 169953f3-69e3-4eb9-96ce-39e6308e6acb))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U11") (unit 1)
         )
@@ -8770,7 +8773,7 @@
     )
     (pin "1" (uuid 6a173491-5b39-4a11-bf68-faac87ea3e78))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0123") (unit 1)
         )
@@ -8799,7 +8802,7 @@
     (pin "1" (uuid 45b80167-fc34-4027-969d-b117f7d1b215))
     (pin "2" (uuid 172c487c-9781-4b5b-a59c-2abad33caf76))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R20") (unit 1)
         )
@@ -8828,7 +8831,7 @@
     (pin "1" (uuid d353e21f-e1c6-4bbb-addc-dc8fff712100))
     (pin "2" (uuid 99d1ba27-65ee-4a2e-af39-7cc8840c2c8c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R8") (unit 1)
         )
@@ -8852,7 +8855,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H12") (unit 1)
         )
@@ -8877,7 +8880,7 @@
     )
     (pin "1" (uuid aacceb1d-2a74-49f5-a2b1-b7faf993d34b))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR029") (unit 1)
         )
@@ -8906,7 +8909,7 @@
     (pin "1" (uuid 23e03248-2aad-4565-98b6-1a885f50fa18))
     (pin "2" (uuid 58f53660-ca2b-47a6-afc3-ddbd1ba06748))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R21") (unit 1)
         )
@@ -8939,7 +8942,7 @@
     (pin "5" (uuid ccdab3c6-4679-4a05-8105-d580b4b8c4a3))
     (pin "6" (uuid 2512fc0e-a3d7-4b48-adc4-01abe2261077))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U13") (unit 1)
         )
@@ -8968,7 +8971,7 @@
     (pin "1" (uuid 13c8abd0-b639-4222-9826-09bc937b5753))
     (pin "2" (uuid 01831584-bef9-4423-be7c-c0b1372c5f8c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C15") (unit 1)
         )
@@ -9003,7 +9006,7 @@
     (pin "1" (uuid 8012b4bd-fcd3-4ffa-8884-555bb851f54a))
     (pin "2" (uuid 205e5900-89d1-4f3b-8de0-94dc820cf3c5))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R12") (unit 1)
         )
@@ -9028,7 +9031,7 @@
     )
     (pin "1" (uuid f1e54d53-005f-45b3-aa9e-309cf7762989))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR015") (unit 1)
         )
@@ -9053,7 +9056,7 @@
     )
     (pin "1" (uuid d8425199-3eb6-40f7-a236-394a33c5d2c0))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR07") (unit 1)
         )
@@ -9088,7 +9091,7 @@
     (pin "1" (uuid bef020f9-84df-41f6-aa60-f9e0bde7e6d4))
     (pin "2" (uuid d5e38fca-598b-4d8a-98c9-6da71b070d70))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R14") (unit 1)
         )
@@ -9117,7 +9120,7 @@
     (pin "1" (uuid f4657eb7-1e10-442c-bb1c-9b88974969e5))
     (pin "2" (uuid 4e0f4324-2b54-48b0-8018-12051bae3947))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C23") (unit 1)
         )
@@ -9146,7 +9149,7 @@
     (pin "1" (uuid 10065dc6-bb00-4f71-aaa0-82cd74e79a85))
     (pin "2" (uuid 4a20e294-3d5c-4f54-8745-23172d8cb124))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C18") (unit 1)
         )
@@ -9181,7 +9184,7 @@
     (pin "7" (uuid e4cd266b-0755-405e-9b26-2952444558ba))
     (pin "8" (uuid d5b92e1d-2604-464d-ac69-8afe99f32075))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U3") (unit 1)
         )
@@ -9210,7 +9213,7 @@
     (pin "1" (uuid e4c1f4e0-7ffc-41dd-ab92-9fdc4518d09e))
     (pin "2" (uuid 0376fb61-3db8-44ca-858d-17b3ff88b44a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R2") (unit 1)
         )
@@ -9241,7 +9244,7 @@
     (pin "3" (uuid a28c9eb8-76be-4700-bcb7-29643278b7a1))
     (pin "4" (uuid feb0ffd2-6264-4806-aa14-859f8c65084e))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "Y1") (unit 1)
         )
@@ -9266,7 +9269,7 @@
     )
     (pin "1" (uuid 5e854451-00e7-4a71-9466-7a3e12dee019))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR024") (unit 1)
         )
@@ -9291,7 +9294,7 @@
     )
     (pin "1" (uuid f8dd1ce7-3e08-4aa4-ae71-53140aac0850))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0125") (unit 1)
         )
@@ -9316,7 +9319,7 @@
     )
     (pin "1" (uuid 5154ea12-0a47-457a-a4a5-ae5342ee4b9c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR019") (unit 1)
         )
@@ -9345,7 +9348,7 @@
     (pin "1" (uuid e006ef14-be03-4168-96b4-6203c3856fb6))
     (pin "2" (uuid 1d6c50c2-aaf3-4b23-b9e9-42043a03604c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R16") (unit 1)
         )
@@ -9374,7 +9377,7 @@
     (pin "1" (uuid 745a4807-adb9-4921-bcdd-be53aeb0a045))
     (pin "2" (uuid df43b1aa-9da0-4bbb-9dc9-603496c54b96))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R19") (unit 1)
         )
@@ -9399,7 +9402,7 @@
     )
     (pin "1" (uuid c25543ad-f2d6-42cc-9ee3-09b318956769))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR011") (unit 1)
         )
@@ -9428,7 +9431,7 @@
     (pin "1" (uuid ae355818-7695-42ee-8142-e70481cf58b7))
     (pin "2" (uuid 6ee0bffd-e9c7-4072-b89d-9b62c66ba798))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C29") (unit 1)
         )
@@ -9457,7 +9460,7 @@
     (pin "1" (uuid 3f6721cb-0029-4438-a93d-562e80608eda))
     (pin "2" (uuid 3f19f6b4-2c1a-462d-801b-c4b0b6a41e40))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C21") (unit 1)
         )
@@ -9483,7 +9486,7 @@
     (pin "1" (uuid 19b952cb-b1bc-4927-9358-c5531fb23f4f))
     (pin "2" (uuid 9a0cb471-eda9-409c-8086-682e0588d40a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J2") (unit 1)
         )
@@ -9518,7 +9521,7 @@
     (pin "7" (uuid c7f2ea32-c270-4047-bedf-ade5cdfe734a))
     (pin "8" (uuid 413195a7-c5c8-4b2d-8109-bcdaf552ebce))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U7") (unit 1)
         )
@@ -9547,7 +9550,7 @@
     (pin "1" (uuid a72012fa-de1b-4d07-b523-ea9e43d172da))
     (pin "2" (uuid fe39a8ff-1df2-4510-83ff-8c62cfcf1241))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C20") (unit 1)
         )
@@ -9572,7 +9575,7 @@
     )
     (pin "1" (uuid 5fa0bf85-e806-4101-98df-de2d746925bd))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR08") (unit 1)
         )
@@ -9607,7 +9610,7 @@
     (pin "1" (uuid 9c45fe91-5c08-494a-b4b4-25a45e8b7f59))
     (pin "2" (uuid 187ddfd9-ebe1-416e-a972-90fa6ecf6dbb))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C6") (unit 1)
         )
@@ -9636,7 +9639,7 @@
     (pin "1" (uuid 5f3cee46-9781-4e6e-9124-838d992cb779))
     (pin "2" (uuid 324f5ef3-576d-4341-83ac-04f9e3617337))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C24") (unit 1)
         )
@@ -9665,7 +9668,7 @@
     (pin "1" (uuid 242ea3fc-5104-4549-a550-b16b1391df45))
     (pin "2" (uuid 8eba0c9d-a46f-4177-ae40-14f0a9acc9fe))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C14") (unit 1)
         )
@@ -9700,7 +9703,7 @@
     (pin "1" (uuid c9ce1a3e-47c7-44d0-b996-b5e1371944d4))
     (pin "2" (uuid 5f85fd97-41c9-4095-8bcb-a496b4c28b9a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R15") (unit 1)
         )
@@ -9729,7 +9732,7 @@
     (pin "1" (uuid 7c817518-320d-4c46-b878-81df47d143cf))
     (pin "2" (uuid 88fd2d08-9ffd-4b35-a8e3-6caf6480dc1e))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C30") (unit 1)
         )
@@ -9754,7 +9757,7 @@
     )
     (pin "1" (uuid ca9d9fa6-c081-4934-a0c1-f1cde7f12c16))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR014") (unit 1)
         )
@@ -9783,7 +9786,7 @@
     (pin "1" (uuid 05b2152f-7cff-42eb-8930-87436b74436e))
     (pin "2" (uuid e615991d-c5aa-4b9f-ba38-31a6b8a9b54e))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R23") (unit 1)
         )
@@ -9808,7 +9811,7 @@
     )
     (pin "1" (uuid 4afb4cd8-f316-49d9-96b2-94df3c52f012))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0133") (unit 1)
         )
@@ -9817,7 +9820,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Socket") (at 340.36 195.58 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b94b155c-541c-4de1-ba63-d84603637068)
     (property "Reference" "J10" (at 341.63 195.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9834,7 +9837,7 @@
     (pin "1" (uuid 447e577f-1ceb-43ca-bdf5-7a93f120981f))
     (pin "2" (uuid 7d148082-0166-4490-abcf-dd35a50d8051))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J10") (unit 1)
         )
@@ -9863,7 +9866,7 @@
     (pin "1" (uuid a676eb53-a94d-4aed-bab6-501105279b5a))
     (pin "2" (uuid 20255aa9-7f3b-42f9-9866-6217a72893c6))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C25") (unit 1)
         )
@@ -9888,7 +9891,7 @@
     )
     (pin "1" (uuid 6fd0c531-34e9-41ed-8009-5737219989d3))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR013") (unit 1)
         )
@@ -9913,7 +9916,7 @@
     )
     (pin "1" (uuid 18e6abc7-c499-47c3-b175-6bb4384c5396))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR030") (unit 1)
         )
@@ -9938,7 +9941,7 @@
     )
     (pin "1" (uuid 4575efc8-d1a7-43fd-aabd-c211eb2f3347))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J4") (unit 1)
         )
@@ -9963,7 +9966,7 @@
     )
     (pin "1" (uuid 525e16be-932c-4489-88fc-2b4fce2217d0))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR020") (unit 1)
         )
@@ -9998,7 +10001,7 @@
     (pin "7" (uuid 2a71806e-f3a8-42d2-9c23-838987b060f5))
     (pin "8" (uuid 84f0d441-6016-4140-a182-fd7718ee580d))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U1") (unit 1)
         )
@@ -10027,7 +10030,7 @@
     (pin "1" (uuid fc69056e-a1a5-4be8-b172-896a54d5890c))
     (pin "2" (uuid 08bd19fd-f7f0-4cb0-9918-c4eb4fc69229))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R24") (unit 1)
         )
@@ -10056,7 +10059,7 @@
     (pin "1" (uuid d58b405c-7771-4908-a845-d2bf6083a826))
     (pin "2" (uuid e7423b4d-0a55-43f0-916b-0df999af7ede))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R9") (unit 1)
         )
@@ -10081,7 +10084,7 @@
     )
     (pin "1" (uuid ce618cf0-272e-4f2e-bd6d-b7c3f56e51b9))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR09") (unit 1)
         )
@@ -10105,7 +10108,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H14") (unit 1)
         )
@@ -10130,7 +10133,7 @@
     )
     (pin "1" (uuid c08a6f3d-4b8b-4223-8b70-4b66219e267d))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR03") (unit 1)
         )
@@ -10155,7 +10158,7 @@
     )
     (pin "1" (uuid 2aa416c2-8d05-49c4-8cef-9f02766783da))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0124") (unit 1)
         )
@@ -10184,7 +10187,7 @@
     (pin "1" (uuid 4b2aee76-6252-4f1d-befa-fb88d016842c))
     (pin "2" (uuid d93f315a-a7a5-4d59-ba6a-33e001b4c7d3))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "D1") (unit 1)
         )
@@ -10209,7 +10212,7 @@
     )
     (pin "1" (uuid 7256d257-ce8f-4cb1-a0f9-70a275a2c30a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR017") (unit 1)
         )
@@ -10234,7 +10237,7 @@
     )
     (pin "1" (uuid a9d59956-e934-4c77-8bfa-83571011431c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR021") (unit 1)
         )
@@ -10269,7 +10272,7 @@
     (pin "1" (uuid 46999f6c-cde3-429f-9873-871e04cf4e17))
     (pin "2" (uuid 83860719-2af1-4bfa-b253-2d3c9c10d6de))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R6") (unit 1)
         )
@@ -10298,7 +10301,7 @@
     (pin "1" (uuid c2aa0be3-b2dd-447d-9576-ce4873c68127))
     (pin "2" (uuid 971d21f3-554d-40ef-851e-599c12644e3a))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C32") (unit 1)
         )
@@ -10331,7 +10334,7 @@
     (pin "5" (uuid 559cf035-3f90-4dce-b051-b331c2846e33))
     (pin "6" (uuid 7eb59bda-7cec-4458-9c22-fec4fefea901))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U12") (unit 1)
         )
@@ -10360,7 +10363,7 @@
     (pin "1" (uuid cacb9eef-d0da-4c7b-b6be-d1dcb014de4f))
     (pin "2" (uuid c8a7ff3d-35fa-4d0e-888a-48f119ae5b10))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C26") (unit 1)
         )
@@ -10389,7 +10392,7 @@
     (pin "1" (uuid b3487549-bb3c-4bc9-b9e2-10e1fedbd456))
     (pin "2" (uuid acc4b6fb-7b33-4df8-a0fc-0ea37ad7b118))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R28") (unit 1)
         )
@@ -10419,7 +10422,7 @@
     (pin "2" (uuid c1af9418-a8d0-447c-b843-179004492624))
     (pin "3" (uuid 5cad9561-7974-4201-bf4e-1ef2debb1221))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "Q1") (unit 1)
         )
@@ -10448,7 +10451,7 @@
     (pin "1" (uuid ad59b114-e167-439d-962b-960f5532524b))
     (pin "2" (uuid db3c5f2e-c611-4203-a693-0b6d87ef3f90))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R17") (unit 1)
         )
@@ -10478,7 +10481,7 @@
     (pin "2" (uuid ead400f7-e0af-4d17-b804-629b8169050e))
     (pin "3" (uuid 3d1ebcec-5226-4c90-a9f4-0d7b533ebc8c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "Q2") (unit 1)
         )
@@ -10507,7 +10510,7 @@
     (pin "1" (uuid 7303b706-f5c3-4b85-a915-2b18265e6c9c))
     (pin "2" (uuid 41c1d876-6a9d-42ad-96e9-6a264eab8233))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C28") (unit 1)
         )
@@ -10536,7 +10539,7 @@
     (pin "1" (uuid 1ae2fd1f-dd83-40a4-b626-8a197ff2e26c))
     (pin "2" (uuid 06f04d72-fde4-4075-aa8e-3863f9a86334))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C1") (unit 1)
         )
@@ -10550,16 +10553,16 @@
     (property "Reference" "J9" (at 31.75 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "G-Switch GT-USB-7010ANS" (at 31.75 81.28 0)
+    (property "Value" "GT-USB-7010AB" (at 31.75 81.28 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV" (at 35.56 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 35.56 101.6 0)
+    (property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2312191005_G-Switch-GT-USB-7010AB_C963412.pdf" (at 35.56 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C5362631" (at 31.75 101.6 0)
+    (property "LCSC" "C963412" (at 31.75 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A1" (uuid 085f656e-5955-459f-878c-17030b20b9a1))
@@ -10580,7 +10583,7 @@
     (pin "B9" (uuid 1a60ca63-2b9c-4d25-a3a3-22b8d71632c3))
     (pin "S1" (uuid 4004dade-bc30-4e41-95ac-39a3d50c8882))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J9") (unit 1)
         )
@@ -10604,7 +10607,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H13") (unit 1)
         )
@@ -10639,7 +10642,7 @@
     (pin "1" (uuid 9b4e3601-7196-47a9-9bab-0464aed0787b))
     (pin "2" (uuid a8ee31c2-8265-4c01-8a29-4f9f9868b8ed))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R11") (unit 1)
         )
@@ -10648,7 +10651,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 158.75 25.4 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid dc24d227-4289-4968-9b11-6b78b6244210)
     (property "Reference" "J7" (at 158.115 21.3573 0)
       (effects (font (size 1.27 1.27)))
@@ -10665,7 +10668,7 @@
     (pin "1" (uuid f34c5b2b-98ff-4275-8229-f78fb272b331))
     (pin "2" (uuid bbf44e1f-56f3-4c91-a8af-c301d7cc6ebe))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J7") (unit 1)
         )
@@ -10690,7 +10693,7 @@
     )
     (pin "1" (uuid c1618203-95a4-43ba-a9ab-5aca2a7a5768))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR032") (unit 1)
         )
@@ -10719,7 +10722,7 @@
     (pin "1" (uuid def73120-80a0-45fd-b860-b3658208b080))
     (pin "2" (uuid 1630515a-0d77-484b-935d-6c4a9bde67cc))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C22") (unit 1)
         )
@@ -10744,7 +10747,7 @@
     )
     (pin "1" (uuid e5d860b3-c32f-41f1-ab42-edc3fbfa245b))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR025") (unit 1)
         )
@@ -10769,7 +10772,7 @@
     )
     (pin "1" (uuid cd5ae7fb-a9ea-4764-bedf-0e3aad9c5fbe))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0109") (unit 1)
         )
@@ -10798,7 +10801,7 @@
     (pin "1" (uuid 164a59e2-0c12-4127-8e2c-649e157c3cb8))
     (pin "2" (uuid 4f68d9d5-87c1-4598-a163-092fd0ce0e60))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C31") (unit 1)
         )
@@ -10823,7 +10826,7 @@
     )
     (pin "1" (uuid 771df5f1-9a90-4d3b-b561-17d4a3eca658))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0120") (unit 1)
         )
@@ -10848,7 +10851,7 @@
     )
     (pin "1" (uuid fe770c85-0c0c-4c22-b784-d8ee805c7123))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0116") (unit 1)
         )
@@ -10873,7 +10876,7 @@
     )
     (pin "1" (uuid f2839acd-1b35-490d-b8f9-9fc84ebe5475))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0111") (unit 1)
         )
@@ -10896,14 +10899,14 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055-q1.pdf" (at 372.11 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C266230" (at 372.11 160.02 0)
+    (property "LCSC" "C266128" (at 372.11 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c3b75062-a9f3-46ab-ae54-a2c7076c8e17))
     (pin "2" (uuid c0506a55-4f4f-4e9e-8552-f3e1b300df97))
     (pin "3" (uuid 44938354-4d01-4a28-b89b-b97e047cd221))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "U4") (unit 1)
         )
@@ -10932,7 +10935,7 @@
     (pin "1" (uuid d6e9974a-e5f6-4a6f-9387-c14bfed6d2de))
     (pin "2" (uuid 9573260c-7eb2-487a-8ba6-acda2258a412))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C19") (unit 1)
         )
@@ -10961,7 +10964,7 @@
     (pin "1" (uuid 8a3f6d09-3a32-4d26-ba6f-a54cbe0f7827))
     (pin "2" (uuid b876912b-8d1e-4df5-b8c7-7f42bcdae2ac))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "C17") (unit 1)
         )
@@ -10985,7 +10988,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "H15") (unit 1)
         )
@@ -11010,7 +11013,7 @@
     )
     (pin "1" (uuid b36165e8-9a5f-4315-809f-84d0fe829d1e))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR012") (unit 1)
         )
@@ -11040,7 +11043,7 @@
     (pin "5" (uuid 5fe4052f-7ca4-4032-ba76-bed25bce3d4b))
     (pin "6" (uuid b1f6c8ac-beeb-4e36-8b5a-934ddd26ff23))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J15") (unit 1)
         )
@@ -11069,7 +11072,7 @@
     (pin "1" (uuid 196028da-dc90-4e6e-a511-0257e5edb92e))
     (pin "2" (uuid 7aa91509-e9ed-4fbe-9f8a-767a189822b1))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "R25") (unit 1)
         )
@@ -11099,7 +11102,7 @@
     (pin "2" (uuid c7aac593-efba-428c-8ffd-ba3aece1a12a))
     (pin "3" (uuid c2f7df41-dd53-4c26-927d-19d787146e57))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "Q3") (unit 1)
         )
@@ -11151,7 +11154,7 @@
     (pin "B9" (uuid 79fb4d23-6a48-4d4a-9c99-70df128a1e87))
     (pin "S1" (uuid efc74ae2-58c6-4769-a70d-36218c4fdc83))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "J12") (unit 1)
         )
@@ -11176,7 +11179,7 @@
     )
     (pin "1" (uuid e56c6767-b81f-498c-b95b-480de0d83eb2))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0108") (unit 1)
         )
@@ -11201,7 +11204,7 @@
     )
     (pin "1" (uuid fd6e8120-b5a9-40d9-81f3-2906601c93c9))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR031") (unit 1)
         )
@@ -11226,7 +11229,7 @@
     )
     (pin "1" (uuid 1d3dc232-6af2-49de-8d34-3c8902a3900c))
     (instances
-      (project "PhobGCC_2_0_0_proto_1"
+      (project "Phizard_2_0_5"
         (path "/852dabbf-de45-4470-8176-59d37a754407"
           (reference "#PWR0114") (unit 1)
         )

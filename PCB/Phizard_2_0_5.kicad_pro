@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.5,
-          "width": 2.6
+          "drill": 1.39,
+          "height": 1.7,
+          "width": 2.3
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -418,7 +418,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PhobGCC_2_0_0_proto_1.kicad_pro",
+    "filename": "Phizard_2_0_5.kicad_pro",
     "version": 1
   },
   "net_settings": {

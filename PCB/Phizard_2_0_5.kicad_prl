@@ -34,6 +34,7 @@
       3,
       4,
       5,
+      7,
       8,
       9,
       10,
@@ -61,14 +62,15 @@
       34,
       35,
       36,
+      37,
       39,
       40
     ],
-    "visible_layers": "fff1cbf_ffffffff",
+    "visible_layers": "ffd1cff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "PhobGCC_2_0_0_proto_1.kicad_prl",
+    "filename": "Phizard_2_0_5.kicad_prl",
     "version": 3
   },
   "project": {
